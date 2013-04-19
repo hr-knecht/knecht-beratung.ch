@@ -199,7 +199,7 @@ p {
 #content h2, #content h3 {
   text-transform: uppercase;
   color: white;
-  padding: 2px 4px;
+  padding: 3px 4px;
   display: -moz-inline-stack;
   display: inline-block;
   vertical-align: middle;
